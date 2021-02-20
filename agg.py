@@ -3,7 +3,7 @@ import yagmail
 import sys
 
 # telling yagmail which address the message will be sent from
-yag = yagmail.SMTP(user='pydevthrowaway@gmail.com', password='Panthers2013!')
+yag = yagmail.SMTP(user='', password='')
 
 # initialize the reddit and medium objects
 medium_obj = medium_scrape.MediumScrape()
