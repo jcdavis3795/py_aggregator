@@ -1,8 +1,8 @@
 import praw
 
 # using praw to access the reddit api with our client key and secret key
-reddit = praw.Reddit(client_id='Qhb0z9XPv8moKQ',
-                     client_secret='bxlHri4EHzYTd5ZH7YRFYjuPqldEzg',
+reddit = praw.Reddit(client_id='',
+                     client_secret='',
                      user_agent='windows.agg_content:v1.0 (by u/BlueMilk_and_Wookies)'
                      )
 
